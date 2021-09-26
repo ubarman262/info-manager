@@ -1,0 +1,75 @@
+{
+  "doc": [
+    {
+      "id": 1,
+      "title": "PAN",
+      "value": "123456",
+      "imageURL": "https://example.com",
+      "color": "is-info"
+    },
+    {
+      "id": 2,
+      "title": "AADHAR",
+      "value": "2223229299",
+      "imageURL": "https://example.com",
+      "color": "is-link"
+    },
+    {
+      "title": "Email",
+      "value": "2222222",
+      "id": 3,
+      "color": "is-success"
+    },
+    {
+      "title": "Email",
+      "value": "2222222",
+      "imageURL": "",
+      "id": 4,
+      "color": "is-warning"
+    },
+    {
+      "title": "Test",
+      "value": "BUT, try removing the width, or letting the overflow default to visible, or removing white-space: nowrap, or using something other than a block container element, AND, ellipsis fails miserably.",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/info-manager-b5f9b.appspot.com/o/FB_IMG_1625157831347.jpg?alt=media&token=de05af34-c0d4-4661-9ece-32fca2e3dd61",
+      "id": 5
+    },
+    {
+      "title": "Test",
+      "value": "Hellow",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/info-manager-b5f9b.appspot.com/o/FB_IMG_1625157831347.jpg?alt=media&token=de05af34-c0d4-4661-9ece-32fca2e3dd61",
+      "id": 6
+    },
+    {
+      "title": "Test",
+      "value": "BUT, try removing the width, or letting the overflow default to visible, or removing white-space: nowrap, or using something other than a block container element, AND, ellipsis fails miserably.",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/info-manager-b5f9b.appspot.com/o/FB_IMG_1625157831347.jpg?alt=media&token=de05af34-c0d4-4661-9ece-32fca2e3dd61",
+      "id": 7
+    },
+    {
+      "title": "Test",
+      "value": "BUT",
+      "imageURL": "https://firebasestorage.googleapis.com/v0/b/info-manager-b5f9b.appspot.com/o/FB_IMG_1625157831347.jpg?alt=media&token=de05af34-c0d4-4661-9ece-32fca2e3dd61",
+      "id": 8
+    },
+    {
+      "title": "wada",
+      "value": "dad",
+      "imageURL": "",
+      "id": 9
+    },
+    {
+      "title": "TEst",
+      "value": "color",
+      "imageURL": "",
+      "color": "is-success",
+      "id": 10
+    },
+    {
+      "title": "test",
+      "value": "color 2",
+      "imageURL": "",
+      "color": "is-link",
+      "id": 11
+    }
+  ]
+}
